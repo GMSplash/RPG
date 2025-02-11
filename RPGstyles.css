@@ -37,3 +37,10 @@ button {
   background-image: linear-gradient(#fecc4c, #ffac33);
   border: 3px solid #feac32;
 }
+#img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
